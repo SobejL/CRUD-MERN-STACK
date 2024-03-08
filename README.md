@@ -7,6 +7,8 @@ MongoDB database
 
 ## Getting Started
 
+Change env.example
+
 First, download the module packages:
 
 ```bash
